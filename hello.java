@@ -1,12 +1,12 @@
 public static void main(String[] args) {
-	system.out.print("hello");
-	system.out.print("bye");
-	system.out.print("good");
+	System.out.print("hello");
+	System.out.print("bye");
+	System.out.print("good");
 <<<<<<< HEAD
-	system.out.print("fuck");
+	System.out.print("fuck");
 =======
-	system.out.print("apple");
-	system.out.print("banana");
+	System.out.print("apple");
+	System.out.print("banana");
 >>>>>>> hotfix
 	
 	}
