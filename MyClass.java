@@ -4,5 +4,6 @@ public class MyClass {
 
 System.out.println("hello");
 System.out.println("Java");
+System.out.println("Fuck");
 }
 }
