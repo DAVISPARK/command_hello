@@ -8,6 +8,6 @@ public static void main(String[] args) {
 	system.out.print("apple");
 	system.out.print("banana");
 >>>>>>> hotfix
-	>>>>>>> system.out.print("coffee");
+	
 	}
 
