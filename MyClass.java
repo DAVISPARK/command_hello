@@ -4,7 +4,7 @@ public class MyClass {
 
 System.out.println("hello");
 System.out.println("Java");
-System.out.println("Fuck");
-System.out.print("ing");
+System.out.print("Fuck");
+System.out.println("ing");
 }
 }
